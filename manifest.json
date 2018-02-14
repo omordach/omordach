@@ -1,6 +1,8 @@
 {
     "name": "Oleg Mordach - QA Engineer",
     "short_name": "Oleg QA",
+    "lang": "en-US",
+    "start_url": "/",
     "icons": [
         {
             "src": "/android-chrome-192x192.png",
